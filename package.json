@@ -1,0 +1,28 @@
+{
+  "name": "chatgpt-functions",
+  "version": "0.0.1",
+  "description": "A collection of functions that can be used with the OpenAI ChatGPT API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usellm/chatgpt-functions.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "ai",
+    "openai"
+  ],
+  "author": "Aakash N S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usellm/chatgpt-functions/issues"
+  },
+  "homepage": "https://github.com/usellm/chatgpt-functions#readme",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}
